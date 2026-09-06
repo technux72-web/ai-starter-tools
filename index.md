@@ -5,17 +5,17 @@ title: Companion Page — The Beginner's Hands-On Guide to AI
 
 # Companion Page — The Beginner's Hands-On Guide to AI
 
-**Last updated: August 26, 2026**
+**Last updated: September 6, 2026**
 
 Welcome — you probably scanned the QR code in Appendix C or D. This page holds the details that change too fast for print: free-tier limits, feature changes, and availability by region for the book's 3 toolkits and the tool families behind them. If this page and your printed copy ever disagree, trust this page. And the final word always belongs to each provider's official help pages, linked below.
 
 Everything here follows the book's one rule about access: official tools, genuine free tiers, no workarounds.
 
-## The 3 toolkits, as of late August 2026
+## The 3 toolkits, as of early September 2026
 
 ### Toolkit A — Google Gemini
 
-- **Everyday chat is free, with web search for current topics built in.** Limits are rolling: they refresh every few hours up to a weekly cap, so a busy morning doesn't end your whole day.
+- **Everyday chat is free, with web search for current topics built in.** Limits reset daily and can tighten when demand is high, so hitting the cap means waiting for tomorrow, not paying up.
 - **Images:** included on the free tier — about 20 a day, resetting daily, with limits that can shift. Editing images requires an adult (18+) account.
 - **Voice:** hands-free voice conversations (Gemini Live) are free. Read-aloud of written answers varies by device — look for "Listen" behind the 3-dot menu under a response. If it's not there, your phone's built-in read-aloud (section 7.2.1) does the same job.
 - **Uploads:** documents and photos are supported — up to 10 files at a time.
@@ -33,14 +33,14 @@ Everything here follows the book's one rule about access: official tools, genuin
 
 ### Toolkit C — Local AI assistants
 
-The 3-step method from section 1.2.3 is still how you find yours: search for assistants officially launched in your country or language, confirm a genuine free tier, verify chat plus web search. Worked examples, as of late August 2026:
+The 3-step method from section 1.2.3 is still how you find yours: search for assistants officially launched in your country or language, confirm a genuine free tier, verify chat plus web search. Worked examples, as of early September 2026:
 
 - **China:** DeepSeek, Kimi (from Moonshot AI), Doubao (from ByteDance), and Qwen (from Alibaba) all offer free everyday chat in Chinese, with web search. Three footnotes: DeepSeek has no built-in image generation; Doubao added paid plans in 2026, but everyday chat and search stay free; Qwen's Chinese app is now called 千问 (formerly 通义). Headlines about Kimi "sunsetting" on August 31, 2026 concern old developer models, not the free app. Sign-up is usually mobile-first with phone verification.
 - **Russia:** [Yandex Alice](https://alice.yandex.ru/) offers free chat and image generation; GigaChat offers free basic access with a SberID login.
 - **South Korea:** Kakao Kanana, inside KakaoTalk, is the main local assistant. (Naver's CLOVA X closed in April 2026 — if an older guide recommends it, that's why you can't find it.)
 - **Elsewhere:** where Google Gemini or Microsoft Copilot is officially available, you may not need a local assistant at all. Local options like Agent i (Japan) and Krutrim (India) exist if you prefer one.
 
-## The tool families, as of late August 2026
+## The tool families, as of early September 2026
 
 ### Chat and research
 
@@ -54,7 +54,7 @@ All 3 toolkits search the web and show sources for free. Dedicated research tool
 ### Voice and audio
 
 - **Read-aloud built-ins:** Gemini's "Listen," your phone's read-aloud, and Microsoft Edge's Read Aloud (free, reads webpages and PDFs aloud).
-- **Podcast-style audio from your own documents:** Google NotebookLM — the free tier gives 3 Audio Overviews a day, in 50+ languages.
+- **Podcast-style audio from your own documents:** Google's Gemini Notebook (the new name for NotebookLM since July 2026) — the free tier gives 3 Audio Overviews a day, in 50+ languages.
 - **Dedicated voiceover:** ElevenLabs has a free plan of about 10 minutes of speech a month, for non-commercial use with attribution.
 - The standing rule from 7.2.1: never clone a real person's voice without their clear permission.
 
